@@ -1,11 +1,11 @@
 [package]
-name = "spi_flash"
+name = "spi-flash"
 version = "0.1.0"
 edition = "2024"
 authors = ["Shishir Dey <shishirdey241097@gmail.com>"]
 description = "no_std SPI flash driver for Winbond W25Q and similar devices"
 license = "MIT"
-repository = "https://github.com/shishir-dey/spi_flash"
+repository = "https://github.com/shishir-dey/spi-flash"
 keywords = ["spi", "flash", "no-std"]
 categories = ["embedded", "hardware-support"]
 
